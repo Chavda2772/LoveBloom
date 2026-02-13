@@ -41,7 +41,7 @@ Created with ❤️ by Antigravity (Advanced Agentic Coding at Google Deepmind) 
 
 ## ⚙️ Customization Guide
 
-You don't need to be a developer to make this your own! Simply edit the `src/data.json` file.
+You don't need to be a developer to make this your own! Simply edit the `public/data.json` file.
 
 ### Customization Fields:
 

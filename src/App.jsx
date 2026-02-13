@@ -2,7 +2,7 @@ import { useState, useEffect } from 'react'
 import { motion, AnimatePresence } from 'framer-motion'
 import confetti from 'canvas-confetti'
 import { Heart, Sparkles, RefreshCw, Smartphone, ShieldCheck, Award } from 'lucide-react'
-import data from './data.json'
+import data from '../public/data.json'
 import './App.css'
 
 const FloatingHearts = () => {
